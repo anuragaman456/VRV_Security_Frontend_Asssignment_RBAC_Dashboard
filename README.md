@@ -3,7 +3,7 @@ Security considerations include implementing role-based access control to restri
 
 # Role-Based Admin Dashboard
 
-A modern, responsive admin dashboard built with React, TypeScript, and Tailwind CSS, featuring role-based authentication and user management.
+This Role-Based Admin Dashboard is a modern web app built with React, TypeScript, and Tailwind CSS. It features role-based authentication, user management, and a responsive design. The app supports user creation, login, and dashboard features with interactive data visualizations and a secure login system.
 
 ## Deployed Link
 
