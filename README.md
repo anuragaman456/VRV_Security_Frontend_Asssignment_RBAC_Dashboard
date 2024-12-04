@@ -1,4 +1,4 @@
-# VRV_Security_Frontend_Asssignment_RBCA_Dashboard
+# VRV_Security_Frontend_Asssignment_RBAC_Dashboard
 Security considerations include implementing role-based access control to restrict unauthorized actions, using secure authentication methods, sanitizing user inputs, enforcing CORS policies, applying rate limiting, and enabling secure HTTP headers.
 
 # Role-Based Admin Dashboard
@@ -45,6 +45,7 @@ A modern, responsive admin dashboard built with React, TypeScript, and Tailwind 
 3. **Start the development server**  
    ```bash
    npm run dev
+
 
 
 
