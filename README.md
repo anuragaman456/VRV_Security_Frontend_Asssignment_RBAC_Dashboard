@@ -5,9 +5,11 @@ Security considerations include implementing role-based access control to restri
 
 A modern, responsive admin dashboard built with React, TypeScript, and Tailwind CSS, featuring role-based authentication and user management.
 
-# Deployed Link
-Access the live application here: anurag-aman-dashboard.netlify.app
-Role-Based Admin Dashboard Live
+## Deployed Link
+
+- Access the live application here:  
+  [Role-Based Admin Dashboard Live](https://anurag-aman-dashboard.netlify.app)
+
 ## Features
 
 
